@@ -9,9 +9,9 @@ using System.Windows.Forms;
 
 namespace car_shop_administrative__program
 {
-    public partial class Form1 : Form
+    public partial class FormAuthorization : Form
     {
-        public Form1()
+        public FormAuthorization()
         {
             InitializeComponent();
         }
