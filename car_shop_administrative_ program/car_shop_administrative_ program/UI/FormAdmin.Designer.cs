@@ -1,6 +1,6 @@
-﻿namespace car_shop_administrative__program
+﻿namespace car_shop_administrative__program.UI
 {
-    partial class FormAuthorization
+    partial class FormAdmin
     {
         /// <summary>
         /// Required designer variable.
@@ -30,13 +30,13 @@
         {
             this.SuspendLayout();
             // 
-            // FormAuthorization
+            // FormAdmin
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(384, 367);
-            this.Name = "FormAuthorization";
-            this.Text = "Authorization form";
+            this.ClientSize = new System.Drawing.Size(429, 437);
+            this.Name = "FormAdmin";
+            this.Text = "FormAdmin";
             this.ResumeLayout(false);
 
         }
@@ -44,4 +44,3 @@
         #endregion
     }
 }
-

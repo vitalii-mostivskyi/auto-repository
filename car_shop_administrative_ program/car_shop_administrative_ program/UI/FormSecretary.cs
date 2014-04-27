@@ -7,11 +7,11 @@ using System.Linq;
 using System.Text;
 using System.Windows.Forms;
 
-namespace car_shop_administrative__program
+namespace car_shop_administrative__program.UI
 {
-    public partial class FormAuthorization : Form
+    public partial class FormSecretary : Form
     {
-        public FormAuthorization()
+        public FormSecretary()
         {
             InitializeComponent();
         }
