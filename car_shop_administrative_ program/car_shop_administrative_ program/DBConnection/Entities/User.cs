@@ -9,7 +9,6 @@ namespace car_shop_administrative__program.DBConnection.Entities
     [Table]
     public class User
     {
-
         [Column(IsPrimaryKey = true)]
         public Guid id { get; set; }
         
@@ -30,5 +29,10 @@ namespace car_shop_administrative__program.DBConnection.Entities
 
         [Column]
         public string userType { get; set; }
+
+        public string getFullName()
+        {
+            return String.Format("{1} {0}", name, surname);
+        }
     }
 }

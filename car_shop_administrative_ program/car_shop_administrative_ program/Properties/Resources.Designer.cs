@@ -61,7 +61,7 @@ namespace car_shop_administrative__program.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Data Source=WITAL-MSI;Initial Catalog=SpecialAuthentificationDB;Integrated Data Source=WITAL-MSI;Initial Catalog=SpecialAuthentificationDB;Security=True.
+        ///   Looks up a localized string similar to Data Source=WITAL-MSI;Initial Catalog=carshop_db;Integrated Security=True.
         /// </summary>
         internal static string ConnectionString {
             get {

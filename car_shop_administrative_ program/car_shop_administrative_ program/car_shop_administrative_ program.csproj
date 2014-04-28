@@ -48,36 +48,62 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="DBConnection\carshop_db.cs" />
-    <Compile Include="UI\FormAdmin.cs">
+    <Compile Include="DBConnection\Entities\Car.cs" />
+    <Compile Include="DBConnection\Entities\Category.cs" />
+    <Compile Include="DBConnection\Entities\Order.cs" />
+    <Compile Include="DBConnection\Entities\User.cs" />
+    <Compile Include="Model\ComboBoxItem.cs" />
+    <Compile Include="UI\functionsForms\FormCars.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="UI\FormAdmin.Designer.cs">
+    <Compile Include="UI\functionsForms\FormCars.Designer.cs">
+      <DependentUpon>FormCars.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\functionsForms\FormPerformOrder.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\functionsForms\FormPerformOrder.Designer.cs">
+      <DependentUpon>FormPerformOrder.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\functionsForms\FormSales.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\functionsForms\FormSales.Designer.cs">
+      <DependentUpon>FormSales.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\mainForms\FormAdmin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\mainForms\FormAdmin.Designer.cs">
       <DependentUpon>FormAdmin.cs</DependentUpon>
     </Compile>
-    <Compile Include="UI\FormAuthorization.cs">
+    <Compile Include="UI\mainForms\FormAuthorization.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="UI\FormAuthorization.Designer.cs">
+    <Compile Include="UI\mainForms\FormAuthorization.Designer.cs">
       <DependentUpon>FormAuthorization.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="UI\FormSecretary.cs">
+    <Compile Include="UI\mainForms\FormSecretary.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="UI\FormSecretary.Designer.cs">
+    <Compile Include="UI\mainForms\FormSecretary.Designer.cs">
       <DependentUpon>FormSecretary.cs</DependentUpon>
     </Compile>
-    <Compile Include="UI\FormSeller.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="UI\FormSeller.Designer.cs">
-      <DependentUpon>FormSeller.cs</DependentUpon>
-    </Compile>
-    <EmbeddedResource Include="UI\FormAdmin.resx">
+    <EmbeddedResource Include="UI\functionsForms\FormCars.resx">
+      <DependentUpon>FormCars.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\functionsForms\FormPerformOrder.resx">
+      <DependentUpon>FormPerformOrder.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\functionsForms\FormSales.resx">
+      <DependentUpon>FormSales.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\mainForms\FormAdmin.resx">
       <DependentUpon>FormAdmin.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="UI\FormAuthorization.resx">
+    <EmbeddedResource Include="UI\mainForms\FormAuthorization.resx">
       <DependentUpon>FormAuthorization.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
@@ -90,12 +116,10 @@
       <DependentUpon>Resources.resx</DependentUpon>
       <DesignTime>True</DesignTime>
     </Compile>
-    <EmbeddedResource Include="UI\FormSecretary.resx">
+    <EmbeddedResource Include="UI\mainForms\FormSecretary.resx">
       <DependentUpon>FormSecretary.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="UI\FormSeller.resx">
-      <DependentUpon>FormSeller.cs</DependentUpon>
-    </EmbeddedResource>
+    <None Include="Properties\DataSources\car_shop_administrative__program.Model.ComboBoxItem.datasource" />
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>

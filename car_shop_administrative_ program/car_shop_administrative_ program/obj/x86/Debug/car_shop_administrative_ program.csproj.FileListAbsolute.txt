@@ -1,0 +1,12 @@
+C:\Users\wital\Documents\GitHub\auto-repository\car_shop_administrative_ program\car_shop_administrative_ program\obj\x86\Debug\car_shop_administrative__program.UI.functionsForms.FormCars.resources
+C:\Users\wital\Documents\GitHub\auto-repository\car_shop_administrative_ program\car_shop_administrative_ program\obj\x86\Debug\car_shop_administrative__program.UI.FormAdmin.resources
+C:\Users\wital\Documents\GitHub\auto-repository\car_shop_administrative_ program\car_shop_administrative_ program\obj\x86\Debug\car_shop_administrative__program.FormAuthorization.resources
+C:\Users\wital\Documents\GitHub\auto-repository\car_shop_administrative_ program\car_shop_administrative_ program\obj\x86\Debug\car_shop_administrative__program.Properties.Resources.resources
+C:\Users\wital\Documents\GitHub\auto-repository\car_shop_administrative_ program\car_shop_administrative_ program\obj\x86\Debug\car_shop_administrative__program.UI.FormSecretary.resources
+C:\Users\wital\Documents\GitHub\auto-repository\car_shop_administrative_ program\car_shop_administrative_ program\obj\x86\Debug\car_shop_administrative_ program.csproj.GenerateResource.Cache
+C:\Users\wital\Documents\GitHub\auto-repository\car_shop_administrative_ program\car_shop_administrative_ program\bin\Debug\car_shop_administrative_ program.exe
+C:\Users\wital\Documents\GitHub\auto-repository\car_shop_administrative_ program\car_shop_administrative_ program\bin\Debug\car_shop_administrative_ program.pdb
+C:\Users\wital\Documents\GitHub\auto-repository\car_shop_administrative_ program\car_shop_administrative_ program\obj\x86\Debug\car_shop_administrative_ program.exe
+C:\Users\wital\Documents\GitHub\auto-repository\car_shop_administrative_ program\car_shop_administrative_ program\obj\x86\Debug\car_shop_administrative_ program.pdb
+C:\Users\wital\Documents\GitHub\auto-repository\car_shop_administrative_ program\car_shop_administrative_ program\obj\x86\Debug\car_shop_administrative__program.UI.functionsForms.FormPerformOrder.resources
+C:\Users\wital\Documents\GitHub\auto-repository\car_shop_administrative_ program\car_shop_administrative_ program\obj\x86\Debug\car_shop_administrative__program.UI.functionsForms.FormSales.resources
