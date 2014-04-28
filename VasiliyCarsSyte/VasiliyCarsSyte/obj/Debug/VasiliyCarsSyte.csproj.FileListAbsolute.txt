@@ -1,0 +1,9 @@
+C:\Users\Vova\Documents\Visual Studio 2010\Projects\VasiliyCarsSyte\VasiliyCarsSyte\bin\VasiliyCarsSyte.dll
+C:\Users\Vova\Documents\Visual Studio 2010\Projects\VasiliyCarsSyte\VasiliyCarsSyte\bin\VasiliyCarsSyte.pdb
+C:\Users\Vova\Documents\Visual Studio 2010\Projects\VasiliyCarsSyte\VasiliyCarsSyte\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Vova\Documents\Visual Studio 2010\Projects\VasiliyCarsSyte\VasiliyCarsSyte\obj\Debug\VasiliyCarsSyte.dll
+C:\Users\Vova\Documents\Visual Studio 2010\Projects\VasiliyCarsSyte\VasiliyCarsSyte\obj\Debug\VasiliyCarsSyte.pdb
+C:\Users\wital\Documents\GitHub\auto-repository\VasiliyCarsSyte\VasiliyCarsSyte\bin\VasiliyCarsSyte.dll
+C:\Users\wital\Documents\GitHub\auto-repository\VasiliyCarsSyte\VasiliyCarsSyte\bin\VasiliyCarsSyte.pdb
+C:\Users\wital\Documents\GitHub\auto-repository\VasiliyCarsSyte\VasiliyCarsSyte\obj\Debug\VasiliyCarsSyte.dll
+C:\Users\wital\Documents\GitHub\auto-repository\VasiliyCarsSyte\VasiliyCarsSyte\obj\Debug\VasiliyCarsSyte.pdb

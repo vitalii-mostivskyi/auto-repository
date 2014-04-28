@@ -1,0 +1,31 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="GlobalMaster.master.cs" Inherits="VasiliyCarsSyte.Masters.GlobalMaster" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<link id="Link1"  href ="/CssStyle/StyleForStartPage.css" rel="Stylesheet" type ="text/css"   runat="server"/>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server" >
+<div class="header">
+        <div class="baner">
+      <a href=StartPage.aspx>Home</a>
+    <a href=BasketPage.aspx> Basket</a>
+    </div>
+ </div>
+
+           
+<div class ="dob_block">
+    <div  class="PageContent">
+
+        <asp:ContentPlaceHolder ID="MainContentPlaceHolder" runat="server">
+        
+        </asp:ContentPlaceHolder>
+    </div>
+  </div>
+    </form>
+</body>
+</html>
